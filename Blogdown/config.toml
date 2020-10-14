@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "https://boring-kirch-727db7.netlify.app/"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "GEOVID"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
